@@ -1,5 +1,6 @@
 # Set working directory to the "UCI Har Dataset" on your local machine 
 # i.e. setwd('C:/Users/jaegdschloess/repo/Getting-and-Cleaning-Data-Course-Project/UCI HAR Dataset')
+library(reshape2)
 
 # Relative path to directory containing data (do include backslash )
 data_set_path = "./"
